@@ -39,5 +39,5 @@ Tampilan popup notifikasi saat membuka aplikasi pertama kali akan menunjukkan ba
 ![WhatsApp Image 2025-04-17 at 09 58 26](https://github.com/user-attachments/assets/09f2fe89-327a-4ef9-96ac-6661caa65a81)
 ![WhatsApp Image 2025-04-17 at 09 58 26 (1)](https://github.com/user-attachments/assets/354b0029-0d5a-4877-ae1d-225febcba19b)
 
-![image](https://github.com/user-attachments/assets/85363077-1fed-4ea0-8360-5e2136659e5c)
 
+![WhatsApp Image 2025-04-17 at 10 03 02](https://github.com/user-attachments/assets/fd0035be-612f-4428-82ec-2df97f204189)
