@@ -32,6 +32,7 @@ Coin dapat digunakan untuk membeli tiket tambahan.
 📌 Status Aplikasi
 Aplikasi ini masih dalam tahap pengembangan (beta). Beberapa fitur utama sudah berjalan, namun beberapa bagian mungkin belum sepenuhnya optimal. Kami akan terus melakukan perbaikan dan penambahan fitur secara bertahap.
 
+Link GDRIVE APK -->>> https://drive.google.com/file/d/1h8yJ-wrKcwrYWKm610S6_mFyElLlPQOc/view?usp=sharing
 📷 Ilustrasi
 Tampilan popup notifikasi saat membuka aplikasi pertama kali akan menunjukkan bahwa aplikasi masih dalam proses pengembangan.
 
